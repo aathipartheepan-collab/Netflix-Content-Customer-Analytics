@@ -8,6 +8,13 @@ This Power BI project analyses a Netflix-style content catalogue alongside custo
 ## Dashboard Contents
 The supplied `.pbix` report contains one report page (`Page 1`) with KPI cards, charts, slicers, and a table.
 
+## Dashboard Visual
+
+
+https://github.com/user-attachments/assets/6923994c-38db-496d-a889-14aaca1e4dae
+
+
+
 ### KPI cards
 - Total Titles
 - Total Movies
