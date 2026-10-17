@@ -73,5 +73,12 @@ The report visuals reference both `Shows` and `CustomerRatings` through the shar
 - The supplied data does not include revenue or explicit subscription cancellation/churn fields, so revenue and true churn analysis are outside the scope of this report.
 - Confirm figures in Power BI after refresh before quoting them in a portfolio or interview.
 
+
 ## Author
 Partheepan — Data Analytics Portfolio Project
+
+Aspiring Data Analyst
+
+- **LinkedIn:** www.linkedin.com/in/partheepan-s-305b962ab
+- **GitHub:** https://github.com/aathipartheepan-collab
+
